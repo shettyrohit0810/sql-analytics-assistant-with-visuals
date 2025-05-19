@@ -112,15 +112,6 @@ Charts are rasterized (base64) and displayed using PIL for clean UI integration.
 
 ---
 
-## 📸 Demo Preview
-
-> Ask questions like:
-> - “What is YTD revenue for 2024?”
-> - “Compare actual vs target for each KPI”
-> - “Visualize marketing spend across quarters”
-
-
----
 
 ## 🛠 Tech Stack
 
