@@ -1,0 +1,11 @@
+streamlit
+pandas
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+sqlalchemy
+pyodbc
+lida
+seaborn
+pillow
